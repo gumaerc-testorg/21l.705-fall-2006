@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 7ef7611e-267e-351d-d66a-08ac69c04c15
 ---
@@ -21,7 +22,7 @@ This seminar provides intensive study of exciting texts by these influential Ame
 Course Requirements
 -------------------
 
-Students will be responsible for writing several essays, completing an in-class report, and maintaining a response journal throughout the term. More details can be found in the [assignments]({{< baseurl >}}/pages/assignments) section. Attendance and participation will also factor into the student's final performance in the course.
+Students will be responsible for writing several essays, completing an in-class report, and maintaining a response journal throughout the term. More details can be found in the {{< resource_link 583ecf97-3312-27a8-5879-623096460443 "assignments" >}} section. Attendance and participation will also factor into the student's final performance in the course.
 
 Attendance and Participation
 ----------------------------
